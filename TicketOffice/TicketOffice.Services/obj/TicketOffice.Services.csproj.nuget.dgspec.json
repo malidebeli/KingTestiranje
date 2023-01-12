@@ -1,0 +1,219 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Services\\TicketOffice.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Core\\TicketOffice.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Core\\TicketOffice.Core.csproj",
+        "projectName": "TicketOffice.Core",
+        "projectPath": "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Core\\TicketOffice.Core.csproj",
+        "packagesPath": "C:\\Users\\Joza\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Data\\TicketOffice.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Data\\TicketOffice.Data.csproj",
+        "projectName": "TicketOffice.Data",
+        "projectPath": "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Data\\TicketOffice.Data.csproj",
+        "packagesPath": "C:\\Users\\Joza\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Core\\TicketOffice.Core.csproj": {
+                "projectPath": "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Core\\TicketOffice.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Services\\TicketOffice.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Services\\TicketOffice.Services.csproj",
+        "projectName": "TicketOffice.Services",
+        "projectPath": "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Services\\TicketOffice.Services.csproj",
+        "packagesPath": "C:\\Users\\Joza\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Joza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Core\\TicketOffice.Core.csproj": {
+                "projectPath": "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Core\\TicketOffice.Core.csproj"
+              },
+              "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Data\\TicketOffice.Data.csproj": {
+                "projectPath": "D:\\PROJEKTI\\NatjecajiPosaoZadaci\\KingTestiranje\\KingTestiranje\\TicketOffice\\TicketOffice.Data\\TicketOffice.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

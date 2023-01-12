@@ -1,0 +1,17 @@
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\bin\Debug\net6.0\TicketOffice.Services.deps.json
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\bin\Debug\net6.0\TicketOffice.Services.dll
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\bin\Debug\net6.0\TicketOffice.Services.pdb
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\bin\Debug\net6.0\TicketOffice.Core.dll
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\bin\Debug\net6.0\TicketOffice.Core.pdb
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\obj\Debug\net6.0\TicketOffice.Services.csproj.AssemblyReference.cache
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\obj\Debug\net6.0\TicketOffice.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\obj\Debug\net6.0\TicketOffice.Services.AssemblyInfoInputs.cache
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\obj\Debug\net6.0\TicketOffice.Services.AssemblyInfo.cs
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\obj\Debug\net6.0\TicketOffice.Services.csproj.CoreCompileInputs.cache
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\obj\Debug\net6.0\TicketOffice.Services.csproj.CopyComplete
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\obj\Debug\net6.0\TicketOffice.Services.dll
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\obj\Debug\net6.0\refint\TicketOffice.Services.dll
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\obj\Debug\net6.0\TicketOffice.Services.pdb
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\obj\Debug\net6.0\ref\TicketOffice.Services.dll
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\bin\Debug\net6.0\TicketOffice.Data.dll
+D:\PROJEKTI\NatjecajiPosaoZadaci\TicketOffice.Core\TicketOffice.Services\bin\Debug\net6.0\TicketOffice.Data.pdb
