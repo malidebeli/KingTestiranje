@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TicketOffice/Common.PoreznaClinet/bin/Debug/net6.0
+/TicketOffice/Common.PoreznaClinet/obj
+/TicketOffice/Commons.SustaviSubvencijaClient/bin/Debug/net6.0
+/TicketOffice/Commons.SustaviSubvencijaClient/obj
+/TicketOffice/Commons.UdrugeClient/bin/Debug/net6.0
+/TicketOffice/Commons.UdrugeClient/obj/Debug/net6.0/ref/Commons.UdrugeClient.dll
+/TicketOffice/Commons.UdrugeClient/obj
+/TicketOffice/TicketOffice.Api/bin/Debug/net6.0
+/TicketOffice/TicketOffice.Api/obj
+/TicketOffice/TicketOffice.BackgroundApi/bin/Debug/net6.0
+/TicketOffice/TicketOffice.BackgroundApi/obj
+/TicketOffice/TicketOffice.BackgroundCon/bin/Debug/net6.0
+/TicketOffice/TicketOffice.BackgroundCon/obj
+/TicketOffice/TicketOffice.Core/bin/Debug/net6.0
+/TicketOffice/TicketOffice.Core/obj
+/TicketOffice/TicketOffice.Data/bin/Debug/net6.0
+/TicketOffice/TicketOffice.Data/obj
+/TicketOffice/TicketOffice.Services/bin/Debug/net6.0
+/TicketOffice/TicketOffice.WebMvc/bin/Debug/net6.0
+/TicketOffice/TicketOffice.WebMvc/obj
